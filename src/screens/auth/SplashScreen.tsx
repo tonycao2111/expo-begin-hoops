@@ -26,7 +26,7 @@ const { width, height } = Dimensions.get("screen");
 const messages = [
   {
     image: require("../../assets/basketball/splash-bg1.png"),
-    title: "Chào mừng đến Begin Hoops",
+    title: "Chào mừng đến Begin Hoops hehe",
     subtitle: "Mọi hành trình vĩ đại bắt đầu từ cú nảy đầu tiên",
   },
   {
