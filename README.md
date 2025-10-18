@@ -1,87 +1,51 @@
-# **EcoKids – Environmental Education for Children 🌱🌏**
+# **BeginHoops – Học Bóng Rổ Dành Cho Người Mới 🏀🔥**
 
-**EcoKids** – A fun and interactive app that teaches children how to love and protect the environment through lessons, games, and stories! 🧒👧🌍
+**BeginHoops** – Ứng dụng học bóng rổ hiện đại, tương tác và trực quan, giúp người mới bắt đầu nhanh chóng làm chủ kỹ năng và phát triển tư duy thi đấu chuyên nghiệp! 💪🏽🏀  
 
-With **EcoKids**, kids will:
-- 📚 Learn about nature and sustainability.
-- 🎮 Play fun, eco-themed games.
-- 🧩 Explore creative green activities.
-- 📖 Enjoy engaging stories about the environment.
+Với **BeginHoops**, bạn sẽ:  
+- 🎯 Học các kỹ năng cơ bản và nâng cao trong bóng rổ.  
+- 🧠 Kiểm tra kiến thức qua quiz và tình huống thực tế.  
+- 🗺️ Khám phá các chiến thuật thi đấu chuyên sâu.  
+- 📈 Theo dõi tiến trình luyện tập và phát triển bản thân.  
 
-Let’s raise a generation of little Earth heroes! 💚🌎
+Hãy bắt đầu hành trình trở thành **ngôi sao sân bóng tiếp theo** cùng BeginHoops! 🌟  
 
-## [DEMO - DRIVE LINK](https://drive.google.com/file/d/1-5yl3bOMOGmXhUmD1-xhHleiz4tDUoLb/view?usp=drive_link)  
-## [DOWNLOAD APK](https://drive.google.com/file/d/13Jb3rr6QWbGuMDgHj0lEQTzTheKmeFPk/view?usp=drive_link)
-
----
-
-## Key Features
-
-### 🟢 **Onboard Screens – A Friendly Green Welcome**
-- 🌿 Greeted with cheerful animations and friendly characters.
-- 🌍 Introduction to the app’s mission: protecting the planet together!
-  
-<div style="display: flex; justify-content: left;">
-  <img src="./src/assets/readme/onboard1.png" width="32%" />
-  <img src="./src/assets/readme/onboard2.png" width="32%" />
-  <img src="./src/assets/readme/onboard3.png" width="32%" />
-</div>
-
+## [DEMO - DRIVE LINK](https://drive.google.com/)  
+## [DOWNLOAD APK](https://drive.google.com/)
 
 ---
 
-### 📘 **Lessons – Learn About the Environment**
-- 🐝 Discover topics like recycling, saving water, protecting wildlife, and more.
-- 🎓 Simple visuals and quizzes tailored for kids aged 4–10.
-- 📊 Progress tracking to reward learning.
+## **Tính Năng Nổi Bật**
 
-<div style="display: flex; justify-content: left;">
-  <img src="./src/assets/readme/lesson1.png" width="32%" />
-  <img src="./src/assets/readme/lesson2.png" width="32%" />
-</div>
+### 🟢 **Onboard Screens – Bắt đầu hành trình chinh phục sân bóng**
+- 🏀 Giao diện sinh động, hướng dẫn nhanh giúp bạn hiểu rõ mục tiêu và cấu trúc khóa học.  
+- 🤝 Giới thiệu triết lý của BeginHoops: “Từng bước vững chắc – Bứt phá thành công.”  
 
----
+### 📘 **Bài Học Kỹ Năng – Từng Bước Làm Chủ Trò Chơi**
+- 🏃‍♂️ Hơn 50 video bài học từ **cơ bản đến nâng cao**: dribbling, layup, shooting, passing, defense...  
+- 🧩 Hướng dẫn chi tiết động tác, lỗi sai phổ biến và cách sửa.  
+- 🗓️ Lộ trình luyện tập được cá nhân hóa theo cấp độ người học.  
 
-### 🎮 **Games – Play and Learn**
-- ♻️ **Sort the Trash** – Help clean up by putting waste in the right bin.
-- 🐢 **Ocean Rescue** – Save sea animals by cleaning up plastic pollution.
-- ❓ **Eco Quiz** – Test your green knowledge and level up!
+### 🧠 **Quiz Kiến Thức – Hiểu Luật, Nắm Tình Huống**
+- ❓ Câu hỏi nhanh về **luật chơi, kỹ thuật và chiến thuật trên sân**.  
+- 💡 Giải thích chi tiết giúp củng cố hiểu biết và tư duy chiến thuật.  
+- 🏆 Mỗi quiz hoàn thành giúp mở khóa bài học tiếp theo hoặc thử thách mới.  
 
-<div style="display: flex; justify-content: left;">
-  <img src="./src/assets/readme/game1.png" width="32%" />
-  <img src="./src/assets/readme/game2.png" width="32%" />
-  <img src="./src/assets/readme/game3.png" width="32%" />
-</div>
+### 🧩 **Chiến Thuật Thi Đấu – Đọc Hiểu Trò Chơi Như Một Chuyên Gia**
+- 📋 Thư viện **sơ đồ chiến thuật 2D/3D**: tấn công, phòng ngự, fast-break.  
+- 🧱 Tình huống mô phỏng thực tế giúp người học dễ dàng hình dung và áp dụng.  
+- ⚙️ Gợi ý điều chỉnh chiến thuật phù hợp với phong cách và đối thủ.  
 
----
+## 🛠️ **Công Nghệ Sử Dụng**
 
-### 🎨 **Activities – Fun in Real Life**
-- 🌱 Grow a plant and track its progress with photos.
-- 🔁 Complete daily eco-challenges: turn off the lights, reuse paper, etc.
-- 🖐️ DIY crafts using recycled materials.
-
-<div style="display: flex; justify-content: left;">
-  <img src="./src/assets/readme/activity1.png" width="32%" />
-  <img src="./src/assets/readme/activity2.png" width="32%" />
-</div>
+- **React Native** – Phát triển ứng dụng đa nền tảng nhanh chóng.  
+- **Firebase** – Quản lý tài khoản, cơ sở dữ liệu người dùng và phân tích hành vi học tập.  
+- **Lottie Animations** – Hiệu ứng chuyển động mượt mà, tăng trải nghiệm người dùng.  
 
 ---
 
-### 📚 **Environmental Stories – Learn Through Tales**
-- 📖 Read or listen to short, inspiring stories about nature, animals, and young heroes saving the Earth.
-- 🧡 Stories with a moral, helping build eco-awareness and empathy.
+## 🏀 **Giá Trị Mang Lại**
 
-<div style="display: flex; justify-content: left;">
-  <img src="./src/assets/readme/story1.png" width="32%" />
-  <img src="./src/assets/readme/story2.png" width="32%" />
-</div>
-
----
-
-## 🛠️ Technology Stack
-
-- **React Native** – Cross-platform mobile app development.
-- **Firebase** – Authentication, real-time database, and analytics.
-- **Lottie Animations** – Smooth and fun animations for a kid-friendly feel.
-
----
+- Giúp người chơi **nắm vững nền tảng kỹ thuật bóng rổ**.  
+- Phát triển **tư duy chiến thuật và khả năng phối hợp đồng đội**.  
+- Biến việc học bóng rổ trở nên **hệ thống, thú vị và dễ áp dụng trong thực tế**.  
